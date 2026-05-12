@@ -16,7 +16,7 @@
 
 ## DAFTAR ISI
 - [Soal 1](https://github.com/2503010005-bot/hasbullah_ali_kumaeni/blob/833db63dba7f9b4d759a71e941a5ce6683cb7cc6/KELAS%20A/2503010005_HASBULLAH_ALI_KUMAENI/soal1.cpp)
-- [Soal 2]([#soal2.cpp](https://github.com/2503010005-bot/hasbullah_ali_kumaeni/blob/833db63dba7f9b4d759a71e941a5ce6683cb7cc6/KELAS%20A/2503010005_HASBULLAH_ALI_KUMAENI/soal2.cpp))
+- [Soal 2](https://github.com/2503010005-bot/hasbullah_ali_kumaeni/blob/833db63dba7f9b4d759a71e941a5ce6683cb7cc6/KELAS%20A/2503010005_HASBULLAH_ALI_KUMAENI/soal2.cpp)
 
 ## ANALISIS & PEMBAHASAN SOAL
 
