@@ -15,8 +15,8 @@
 ---
 
 ## DAFTAR ISI
-- [Soal 1](#soal-1)
-- [Soal 2](#soal-2)
+- [Soal 1](#soal1.cpp)
+- [Soal 2](#soal2.cpp)
 
 ## ANALISIS & PEMBAHASAN SOAL
 
