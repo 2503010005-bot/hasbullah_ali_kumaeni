@@ -41,5 +41,4 @@ Kedua konsep ini dikerjakan secara manual tanpa bantuan library otomatis agar sa
 - Modul Praktikum Algoritma dan Struktur Data
 - YouTube, channel Dea Afrizal
 - W3Schools C++ Tutorial
-- Stack Overflow
 - Dokumentasi resmi bahasa C++
